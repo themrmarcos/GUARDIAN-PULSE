@@ -1,0 +1,9 @@
+{
+  "name": "GuardianPulse",
+  "description": "An all-in-one emergency and utility suite featuring SOS services, AI tools, document management, and live communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
